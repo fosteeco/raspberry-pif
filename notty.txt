@@ -1,2 +1,3 @@
 sudo vim /etc/X11/xorg.conf 
 Put switch to true
+yes that will make it work
