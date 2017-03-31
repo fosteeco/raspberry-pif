@@ -1,0 +1,2 @@
+xset -display :0.0 s (# in seconds") -dpms
+
