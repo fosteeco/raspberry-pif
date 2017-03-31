@@ -3,3 +3,5 @@ This is the command that I used to disable TTY
 sudo sysctl -p 
 
 sudo systemctl disable serial-getty@ttyAMA0.service
+yes it is working
+
