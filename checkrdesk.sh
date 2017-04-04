@@ -3,7 +3,8 @@
 while : 
 do
 # For details see man of rdesktop
-rdesktop -f -b -d GRIFFASSOC -k en-gb -u "" -x 0x81 rdc275.paperandfilm.com
+rdesktop -f -b -k en-us -u "" -x 0x81 192.168.1.11
+# If you need to sign in with a domain add -d YOURDOMAIN to the command above
 # After disconnect check for xsession
 lxalive=$(ps -ae|grep lxsession);
 # Do $lxalive exists?

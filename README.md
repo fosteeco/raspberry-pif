@@ -1,2 +1,0 @@
-# pistuff
-pi scripts

@@ -1,11 +1,9 @@
+This are a little bit of notes on how to setup wireless. You can probably find better tutorials online 
+
 sudo iwlist wlan0 scan
 
-wpa_passphrase sudo iwlist wlan0 scan
+wpa_passphrase ssid psk > /etc/wpa_supplicant/wpa_supplicant.conf
 
-wpa_passphrase ssid psk 
 
-sudo vim /etc/wpa_supplicant/wpa_supplicant.conf
-
-put the output of wpa_passphrase at the bottom of the wpa.conf
 
 

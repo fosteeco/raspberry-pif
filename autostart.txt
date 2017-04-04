@@ -1,3 +1,2 @@
-@nohup sh /home/pi/autologin.sh >/dev/null 2>&1 &
-
-@nohup sh /home/pi/new.sh & >/dev/null 2>&1 &
+# You erase everything in "~/.config/lxsession/LXDE/autostart" then you put @/destination/of/the/checkrdeskscript.sh
+@/home/pi/checkrdesk.sh

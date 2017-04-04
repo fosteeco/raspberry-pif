@@ -1,2 +1,2 @@
-xset -display :0.0 s (# in seconds") -dpms
-
+xset -display :0.0 s 30 -dpms
+## This command will fix the issue with the screen going black every 30 seconds. But be aware that even when logged in your screen will go to sleep after 30 seconds.

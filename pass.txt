@@ -1,5 +1,0 @@
-network={
-	ssid="GRIFFASSOC-I.T."
-	#psk="griffnetwork"
-	psk=85621ac8cb598bee8f83c05418867a6673bb6e5e67c4cc3e9ff5f5d15feeb5ea
-}

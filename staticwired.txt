@@ -3,3 +3,5 @@ auto eth0
     address 192.168.4.159
     netmask 255.255.255.0 
     gateway 192.168.4.1
+# Just a little example of a static ip
+# You can change your ip using /etc/network/interfaces
