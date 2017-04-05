@@ -1,0 +1,7 @@
+First install instructions for rapsberry pi lite 
+1. sudo apt-get update 
+2. sudo apt-get install xorg 
+3. sudo apt-get install lxde 
+4. Fix overscann in /boot/
+5. sudo apt-get install rdesktop 
+6. Setup /etc/network/interfaces 
